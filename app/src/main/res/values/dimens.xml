@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Commun -->
+    <dimen name="main_cote_bouton">64dp</dimen>
+    <dimen name="main_marge_bouton">8dp</dimen>
+
+</resources>
